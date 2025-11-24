@@ -81,15 +81,3 @@ Example placeholders:
 This project is for personal and educational use.
 You may modify it freely.
 
-✅ Now what do you do?
-
-👉 Open VS Code
-👉 Open README.md
-👉 Delete everything inside it
-👉 Paste the full README above
-👉 Save
-👉 Commit & push:
-
-git add README.md
-git commit -m "Updated README"
-git push
